@@ -18,8 +18,6 @@
         - közönséges törtből tizedes tört alakba, 
         - tizedes tört alakból közönséges tört alakba.
 
-# II. Hatvány, gyök, logaritmus
-
 ## 4. Hatványozás és gyökvonás
     - A hatványozás fogalmának bevezetése
         - A hatványozás kiterjesztése a kitevő egyre bővebb számhalmazon való értelmezésével.
@@ -35,7 +33,7 @@
         - megoldási módjai,
         - tanításának kérdései.
 
-# III. Algebrai ismeretek
+# II. Algebrai ismeretek
 ## 6. Algebrai kifejezések 
     - Az algebrai kifejezések értelmezése.
     - Az algebrai kifejezések csoportosítása.
@@ -59,7 +57,7 @@
     - számelméleti alapismeretek
     - és tanításuk.
 
-# IV. Függvények, Sorozatok
+# III. Függvények, Sorozatok
 ## 9. A függvényfogalom 
     - kialakítása,
     - a függvényszemlélet erősítésének lehetőségei.
@@ -77,7 +75,7 @@
     - Szabályfelismerés, szabálykövetés, szabályalkotás.
     - Számtani és mértani sorozatok tanítása.
 
-# V. Geometria
+# IV. Geometria
 ## 12-14. Síkgeometriai ismeretek tanítása
 ### 12. Síkidomok és szerkesztések
     - Síkidom, sokszög, négyszög, háromszög, kör fogalma,
@@ -121,7 +119,7 @@
     - Alakzatok egybevágósága, hasonlósága,
     - Szimmetriák.
 
-# VI. Kombinatorika, Valószínűségszámítás, Statisztika
+# V. Kombinatorika, Valószínűségszámítás, Statisztika
 
 ## 20. Kombinatorika 
     - típusfeladatok
