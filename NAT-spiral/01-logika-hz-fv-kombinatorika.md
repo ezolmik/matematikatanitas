@@ -9,3 +9,7 @@
 # 10-edik osztaly I.félév
 <img width="650" height="386" alt="image" src="https://github.com/user-attachments/assets/3a5ea7b7-4879-47da-b995-d8483b83388d" />
 <img width="664" height="523" alt="image" src="https://github.com/user-attachments/assets/49d860d4-0532-4d6d-965e-51a9deed5015" />
+
+# 12-edik osztaly
+<img width="452" height="273" alt="image" src="https://github.com/user-attachments/assets/0d9fea49-3341-4aa5-a227-191b7dba5bc1" />
+<img width="443" height="167" alt="image" src="https://github.com/user-attachments/assets/ca0eecd8-75fb-4dba-b210-7611ee3910d9" />
