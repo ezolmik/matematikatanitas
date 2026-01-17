@@ -1,5 +1,5 @@
 ## Spirális Tanterv
-|Osztály/Félév|Logika|Hz    |Fv        |Sorozat  |Gráf/Komb    |Aritmetika|Algebra|Számelmélet|Geometria  |Stat   |Valszám  |
+|Osztály/Félév|Logika|Hz    |Fv        |Sorozat  |Gráf/Komb    |Aritmetika|Algebra|Számelmélet|Geo        |Stat   |Valszám  |
 |-------------|------|------|----------|---------|-------------|----------|-------|-----------|-----------|-------|---------|
 |12           |      |      |          |✅       |             |          |       |           |✅         |✅     |✅       |
 |11           |      |      |          |         |✅           |          |✅     |✅         |✅         |✅     |✅       |
