@@ -1,4 +1,4 @@
-|Osztály/Félév|Logika|Halmaz|Függvények|Sorozatok|Kombinatorika|Aritmetika|Algebra|Számelmélet|Statisztika|Valszám|
+|Osztály/Félév|Logika|Hz|Fv|Sorozat|Komb|Aritmetika|Algebra|Számelmélet|Stat|Valszám|
 |-------------|------|------|----------|---------|-------------|----------|-------|-----------|-----------|-------|
 |12           ||||||||||
 |11           ||||||||||
