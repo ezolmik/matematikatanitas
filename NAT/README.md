@@ -9,20 +9,27 @@
 |9/1          |      |✅    |          |         |✅           |✅        |✅     |           |           |       |         |
 
 # Tematikus Terv
-- 9/1
-    - KOMBINATORIKA, HALMAZOK
-    - A SZÁMOK VILÁGA
-    - EGYENLETEK ÉS AZONOSSÁGOK
-- 9/2
-    - BEVEZETÉS A GEOMETRIÁBA
-    - FÜGGVÉNYEK
-    - EGYBEVÁGÓSÁG, NÉGYSZÖGEK
-- 10/1
-    - LOGIKA
-    - EGYENLETRENDSZEREK
-    - HATVÁNYOZÁS ÉS A NÉGYZETGYÖK
-    - FÜGGVÉNYTRANSZFORMÁCIÓK
-    - MÁSODFOKÚ EGYENLETEK
+- 9
+    - 9/1
+        - KOMBINATORIKA, HALMAZOK
+        - A SZÁMOK VILÁGA
+        - EGYENLETEK ÉS AZONOSSÁGOK
+    - 9/2
+        - BEVEZETÉS A GEOMETRIÁBA
+        - FÜGGVÉNYEK
+        - EGYBEVÁGÓSÁG, NÉGYSZÖGEK
+- 10
+    - 10/1
+        - LOGIKA
+        - EGYENLETRENDSZEREK
+        - HATVÁNYOZÁS ÉS A NÉGYZETGYÖK
+        - FÜGGVÉNYTRANSZFORMÁCIÓK
+        - MÁSODFOKÚ EGYENLETEK
+    - 10/2
+        - EGYBEVÁGÓSÁG, KÖR
+        - STATISZTIKA ÉS VALÓSZÍNŰSÉGSZÁMÍTÁS
+        - EGYENLETEK ÉS EGYENLŐTLENSÉGEK
+        - HASONLÓSÁG
 - 11
     - TRIGONOMETRIA
     - KOMBINATORIKA, GRÁFOK
