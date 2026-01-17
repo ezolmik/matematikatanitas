@@ -1,4 +1,4 @@
-## Spirális Tanterv
+## Spirális Tanterv - Témakörök
 |Osztály/Félév|Logika|Hz    |Fv        |Sorozat  |Gráf/Komb    |Aritmetika|Algebra|Számelmélet|Geo        |Stat   |Valszám  |
 |-------------|------|------|----------|---------|-------------|----------|-------|-----------|-----------|-------|---------|
 |12           |      |      |          |✅       |             |          |       |           |✅         |✅     |✅       |
