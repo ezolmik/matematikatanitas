@@ -1,5 +1,5 @@
 ## 10-edik osztaly II.félév
-<img width="465" height="684" alt="image" src="https://github.com/user-attachments/assets/f233f219-f92c-4c8c-b4e7-7d88b3afc198" />
+<img width="639" height="566" alt="image" src="https://github.com/user-attachments/assets/801be7e4-da59-4847-b93d-8fc9c2e20bda" />
 
 ## 11-edik osztály
 <img width="465" height="684" alt="image" src="https://github.com/user-attachments/assets/424c82a7-f9bd-4b55-8f10-91c6274dfc4a" />
