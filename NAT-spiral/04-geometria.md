@@ -5,3 +5,10 @@
 # 10-edik osztály II.félév
 <img width="640" height="560" alt="image" src="https://github.com/user-attachments/assets/5fd33422-edd7-4f1a-bcfd-a5781cf8c70f" />
 <img width="650" height="889" alt="image" src="https://github.com/user-attachments/assets/0d5625c3-a404-49c3-ab5c-5d12c8b5e06c" />
+
+# 11-edik osztály
+<img width="465" height="603" alt="image" src="https://github.com/user-attachments/assets/a5207dae-5144-406d-bed9-48a79d135a27" />
+<img width="454" height="632" alt="image" src="https://github.com/user-attachments/assets/8f19c7df-0886-467b-9d79-4add21b43fd4" />
+
+# 12-edik osztály
+<img width="450" height="768" alt="image" src="https://github.com/user-attachments/assets/63d71d8e-5f5e-4eaa-9254-e10508389fa2" />
