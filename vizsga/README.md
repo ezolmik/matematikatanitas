@@ -1,3 +1,26 @@
+# Matematika Tételek Kidolgozása
+
+Ez a repozitórium a matematikatanítás kurzus tételsorának részletes kidolgozását tartalmazza. A feldolgozás egy sajátos didaktikai kettősségre épül, amely élesen elválasztja a matematikai eszköztárat az alkalmazott szemléletmódtól.
+
+## A Matematika Két Arca
+
+A tananyag felépítése során a matematikai diszciplínákat két nagy csoportba soroljuk (implicit módon):
+
+### 1. A FORMULA (1–11. tételek)
+Ez a szakasz a matematika **absztrakt eszköztára** és "nyelvtana". Ide tartozik a logika, a halmazelmélet, az aritmetika, az algebra és a függvénytan. 
+*   **Fókusz:** Algoritmikus gondolkodás, deduktív levezetések és precíz jelölésrendszer.
+*   **Szerep:** Ez adja az alapvető struktúrát, amelyre minden későbbi számítás támaszkodik.
+
+### 2. A SZEMLÉLET (12–22. tételek)
+Azokra az alapokra épülő területek, amelyek sajátos **értelmezési keretet** és vizualitást igényelnek. Ide soroljuk a geometriát, a kombinatorikát, a valószínűségszámítást és a statisztikát.
+*   **Fókusz:** Téri látásmód, stratégiai modellezés és kritikai adatelemzés.
+*   **Szerep:** A formula itt válik eszközzé a valóság (vagy egy modell) leírására.
+
+---
+
+*Megjegyzés: A két blokk közötti hidat a koordinátageometria és a matematikai logika folytonos jelenléte biztosítja.*
+
+
 # I. A számfogalom kialakítása
 ## 1. Egész számok
     - Az egész szám fogalmának kialakítása.
