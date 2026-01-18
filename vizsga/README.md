@@ -2,7 +2,7 @@
 
 Ez a repozitórium a matematikatanítás kurzus tételsorának részletes kidolgozását tartalmazza. A feldolgozás egy sajátos didaktikai kettősségre épül, amely élesen elválasztja a matematikai eszköztárat az alkalmazott szemléletmódtól.
 
-## A Matematika Két Arca
+## A Matematikatanítás tematika két arca
 
 A tananyag felépítése során a matematikai diszciplínákat két nagy csoportba soroljuk (implicit módon):
 
