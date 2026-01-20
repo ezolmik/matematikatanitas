@@ -1,5 +1,7 @@
 # [Dr. Kónya Eszter](https://math.unideb.hu/herendine-dr-konya-eszter) 
 - Matematikatanítás Előadás és Gyakorlat (2025/2026)
+# [NotebookLM](https://notebooklm.google/)
+- [NotebookLM Students](https://notebooklm.google/students)
 # [NAT matematika tankönyvek](https://www.tankonyvkatalogus.hu/tankonyvek?nat=2&subject[0]=2225&schooltype[0]=2195)
 ## 9-edik osztály
 - [OH-MAT09TA_I](https://www.tankonyvkatalogus.hu/tankonyv/OH-MAT09TA_I)
