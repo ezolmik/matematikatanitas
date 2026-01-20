@@ -14,7 +14,7 @@ Azokra az alapokra épülő területek, amelyek sajátos **értelmezési keretet
 
 ---
 
-*Megjegyzés: A két blokk közötti hidat a koordinátageometria és a matematikai logika és halmazelmélet folytonos jelenléte biztosítja.*
+*Megjegyzés: A két blokk közötti hidat a koordinátageometria, a matematikai logika és a halmazelmélet folytonos jelenléte biztosítja.*
 
 
 # I. A számfogalom kialakítása
