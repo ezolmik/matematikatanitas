@@ -1,5 +1,5 @@
 # Matematikatanítás Előadás és Gyakorlat (2025/2026) 
-Hallgatói repository a vizsgára történő hatékony felkészülésre
+Hallgatói repository a vizsgára történő hatékony felkészülésre.
 - Előadó: [Dr. Kónya Eszter](https://math.unideb.hu/herendine-dr-konya-eszter) 
 - Jegyzet: [A közepiskolai matematikatanítas elméleti es gyakorlati kérdései](https://share.google/st3Ge3Mr49a3UcP9t)
 > A kurzus célja az általános és középiskolai matematika tananyag vertikális rendszerezése, valamint a modern szakdidaktikai elvek és tanítási stratégiák elméleti és gyakorlati megalapozása a Debreceni Egyetem tanárszakos hallgatói számára.
