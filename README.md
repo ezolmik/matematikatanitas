@@ -1,5 +1,6 @@
 # [Dr. Kónya Eszter](https://math.unideb.hu/herendine-dr-konya-eszter) 
 - Matematikatanítás Előadás és Gyakorlat (2025/2026)
+> A kurzus célja az általános és középiskolai matematika tananyag vertikális rendszerezése, valamint a modern szakdidaktikai elvek és tanítási stratégiák elméleti és gyakorlati megalapozása a Debreceni Egyetem tanárszakos hallgatói számára.
 # [NotebookLM](https://notebooklm.google/)
 - [NotebookLM Students](https://notebooklm.google/students)
 # [NAT matematika tankönyvek](https://www.tankonyvkatalogus.hu/tankonyvek?nat=2&subject[0]=2225&schooltype[0]=2195)
