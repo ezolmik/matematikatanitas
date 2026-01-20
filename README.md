@@ -16,3 +16,6 @@ Hallgatói repository a vizsgára történő hatékony felkészülésre.
 - [OH-MAT11TA](https://www.tankonyvkatalogus.hu/tankonyv/OH-MAT11TA)
 ## 12-edik osztály
 - [OH-MAT12TA](https://www.tankonyvkatalogus.hu/tankonyv/OH-MAT12TA)
+# Matematikai alapismeretek
+- [Matematika Alapjai Példatár (Szeged, Bolyai Intézet)](https://github.com/ezolmik/matematikatanitas/blob/main/feladatok/szegedi-bolyai-intezet-matematika-alapjai-peldatar.pdf)
+<img width="688" height="691" alt="image" src="https://github.com/user-attachments/assets/5827cf3f-d3a3-4f3c-a937-fa1586f311e0" />
