@@ -8,7 +8,7 @@ Ez a szakasz a matematika **absztrakt eszköztára** és "nyelvtana". Ide tartoz
 *   **Szerep:** Ez adja az alapvető struktúrát, amelyre minden későbbi számítás támaszkodik.
 
 ### 2. A SZEMLÉLET (12–22. tételek)
-Azokra az alapokra épülő területek, amelyek sajátos **értelmezési keretet** és vizualitást igényelnek. Ide soroljuk a geometriát, a kombinatorikát, a valószínűségszámítást és a statisztikát.
+A formális matematikai alapokra épülő területek, amelyek sajátos **értelmezési keretet** és vizualitást igényelnek. Ide soroljuk a geometriát, a kombinatorikát, a valószínűségszámítást és a statisztikát.
 *   **Fókusz:** Téri látásmód, véges konfigurációk, stratégiai modellezés és kritikai adatelemzés, kockázatkezelés.
 *   **Szerep:** A formulák itt válnak eszközzé a valóság (vagy egy modell) leírására.
 
