@@ -4,7 +4,7 @@ A tananyag felépítése során a matematikai diszciplínákat két nagy csoport
 
 ### 1. A FORMULA (1–11. tételek)
 Ez a szakasz a matematika **absztrakt eszköztára** és "nyelvtana". Ide tartozik a logika, a halmazelmélet, az aritmetika, az algebra és a függvénytan. 
-*   **Fókusz:** Formális és analitikus gondolkodás, deduktív levezetések és precíz jelölésrendszer.
+*   **Fókusz:** Formális és analitikus gondolkodás, absztrakciós képesség, deduktív levezetések és precíz jelölésrendszer.
 *   **Szerep:** Ez adja az alapvető struktúrát, amelyre minden későbbi számítás támaszkodik.
 
 ### 2. A SZEMLÉLET (12–22. tételek)
