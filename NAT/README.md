@@ -8,7 +8,7 @@
 |9/2          |      |      |✅        |         |          |       |           |✅         |             |       |         |
 |9/1          |      |✅    |          |         |✅        |✅     |           |           |✅           |       |         |
 
-# Tematikus Terv
+# Témák, témazáró dolgozatok
 - 9
     - 9/1
         - KOMBINATORIKA, HALMAZOK
