@@ -21,5 +21,4 @@ Hallgatói repository a vizsgára történő hatékony felkészülésre.
 <img width="688" height="691" alt="image" src="https://github.com/user-attachments/assets/5827cf3f-d3a3-4f3c-a937-fa1586f311e0" />
 
 # Matematika szakmodszertan záróvizsga
-<img width="1365" height="743" alt="image" src="https://github.com/user-attachments/assets/2dd82eba-c33c-4894-aefb-23be32342baa" />
-<img width="1346" height="331" alt="image" src="https://github.com/user-attachments/assets/4822e65d-8ac6-461b-a47f-9b04caf66a0a" />
+<img width="682" height="548" alt="image" src="https://github.com/user-attachments/assets/1c488942-d834-417b-a673-3e69e0a41e5c" />
