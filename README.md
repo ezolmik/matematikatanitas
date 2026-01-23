@@ -20,5 +20,5 @@ Hallgatói repository a vizsgára történő hatékony felkészülésre.
 - [Matematika Alapjai Példatár (Szeged, Bolyai Intézet)](https://github.com/ezolmik/matematikatanitas/blob/main/feladatok/szegedi-bolyai-intezet-matematika-alapjai-peldatar.pdf)
 <img width="688" height="691" alt="image" src="https://github.com/user-attachments/assets/5827cf3f-d3a3-4f3c-a937-fa1586f311e0" />
 
-# Matematika szakmodszertan záróvizsga
+# Matematika szakmódszertan záróvizsga
 <img width="682" height="548" alt="image" src="https://github.com/user-attachments/assets/1c488942-d834-417b-a673-3e69e0a41e5c" />
