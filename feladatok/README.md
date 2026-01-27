@@ -12,6 +12,9 @@
 Léteznek olyan „határterületi” feladatok, amelyek szétfeszítik a fenti rendszert, mert egyszerre követelik meg a mély elméleti belátást 
 és a gyakorlati megvalósítást. Ezek a feladatok általában a matematikai intuícióra építenek, ami nem sorolható be tisztán sem az algoritmusok, sem a bizonyítások közé.
 
+<img width="571" height="326" alt="image" src="https://github.com/user-attachments/assets/c65c936e-7d2d-4ddf-8620-c6cd311f5463" />
+
+
 ## Heurisztikus problémamegoldás 
 - Olyan feladatok, ahol nem ismert az algoritmus, így a diáknak saját módszert kell alkotnia. 
 - Ez az 1. és 2. szint ötvözete **extrém kreativitással**.
