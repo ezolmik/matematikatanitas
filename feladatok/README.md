@@ -1,3 +1,7 @@
+> "A matematika nem azért szép, mert hasznos. A matematika azért hasznos, mert szép."
+
+<img width="1340" height="401" alt="image" src="https://github.com/user-attachments/assets/b3f8f7ed-2dfc-47c4-8bc2-b8cb17bf01a2" />
+
 # A feladatok osztályozása
 
 <img width="573" height="510" alt="image" src="https://github.com/user-attachments/assets/5e98306b-b3a3-47b0-a7d9-5cf9d335077c" />
