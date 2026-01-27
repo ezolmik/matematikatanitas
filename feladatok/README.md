@@ -2,6 +2,8 @@
 
 <img width="1340" height="401" alt="image" src="https://github.com/user-attachments/assets/b3f8f7ed-2dfc-47c4-8bc2-b8cb17bf01a2" />
 
+<img width="547" height="793" alt="image" src="https://github.com/user-attachments/assets/9604dc24-cd92-4406-91a6-9472a263e7eb" />
+
 # A feladatok osztályozása
 
 <img width="573" height="510" alt="image" src="https://github.com/user-attachments/assets/5e98306b-b3a3-47b0-a7d9-5cf9d335077c" />
@@ -22,3 +24,4 @@ Léteznek olyan „határterületi” feladatok, amelyek szétfeszítik a fenti 
 Olyan problémák, amelyek a józan ész és a matematikai absztrakció határán mozognak, és nem sorolhatók be tisztán sem az elméleti, sem az alkalmazott kategóriákba.
 
 <img width="561" height="636" alt="image" src="https://github.com/user-attachments/assets/d01d9644-9481-44f2-9873-f5ce6412ffa5" />
+
