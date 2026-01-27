@@ -18,4 +18,7 @@ Léteznek olyan „határterületi” feladatok, amelyek szétfeszítik a fenti 
 
 <img width="573" height="447" alt="image" src="https://github.com/user-attachments/assets/11e8a9f7-a3fe-46c9-8d83-82c545de73d6" />
 
+##  Out-of-the-box: A matematikai intuíció terepe
+Olyan problémák, amelyek a józan ész és a matematikai absztrakció határán mozognak, és nem sorolhatók be tisztán sem az elméleti, sem az alkalmazott kategóriákba.
+
 <img width="561" height="636" alt="image" src="https://github.com/user-attachments/assets/d01d9644-9481-44f2-9873-f5ce6412ffa5" />
