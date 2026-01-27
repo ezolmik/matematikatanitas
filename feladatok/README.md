@@ -9,7 +9,8 @@ Léteznek olyan „határterületi” feladatok, amelyek szétfeszítik a fenti 
 <img width="561" height="636" alt="image" src="https://github.com/user-attachments/assets/d01d9644-9481-44f2-9873-f5ce6412ffa5" />
 
 ## Heurisztikus problémamegoldás 
-Olyan feladatok, ahol nem ismert az algoritmus, így a diáknak saját módszert kell alkotnia. Ez az 1. és 2. szint ötvözete extrém kreativitással.
+- Olyan feladatok, ahol nem ismert az algoritmus, így a diáknak saját módszert kell alkotnia. 
+- Ez az 1. és 2. szint ötvözete **extrém kreativitással**.
 
 <img width="565" height="344" alt="image" src="https://github.com/user-attachments/assets/32ce21cc-80d6-4afe-80db-484a348935da" />
 
